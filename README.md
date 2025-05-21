@@ -7,7 +7,7 @@ A Senior Analytical Scientist working at [The ICR London](https://www.icr.ac.uk/
 ### 💼 What I Do
 
 - 🧬 Cancer Genomics, GWAS, NGS pipelines  
-- 📊 R, bash, HPC - daily tools of the trade  
+- 📊 R, bash, HPC
 - 🧠 Statistical modelling, data wrangling, and reproducibility  
 - 🎨 Data Visualisation
 
